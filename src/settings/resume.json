@@ -1,0 +1,45 @@
+{
+    "basics": {
+        "name": "n3rd3x3",
+        "email": "hi@nerds.email",
+        "picture": "avatar.svg",
+        "x_title": "I'm",
+        "job": "developer",
+        "description": "Hey, I'm n3rd3x3, although you can call me nerd. I connect you to your dreams.",
+        "summary": "based in Chicago.",
+        "keywords": "personal,website,portfolio,nerd,n3rd3x3,computer,science,backend,us,github,google,telegram",
+        "url": "https://n3rd3x3.dev",
+        "location": {
+            "city": "Chicago",
+            "country": "United States",
+            "countryCode": "US",
+            "region": "Chicago"
+        },
+        "profiles": [
+            {
+                "network": "Email",
+                "username": "hi@nerds.email",
+                "url": "mailto:hi@nerds.email",
+                "x_icon": "fas fa-envelope"
+            },
+            {
+                "network": "Notes",
+                "username": "Notes",
+                "url": "https://notes.n3rd3x3.dev",
+                "x_icon": "fas fa-book"
+            },
+            {
+                "network": "GitHub",
+                "username": "n3rd3x3",
+                "url": "https://github.com/n3rd3x3",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "Telegram",
+                "username": "n3rd3x3",
+                "url": "https://t.me/n3rd3x3",
+                "x_icon": "fab fa-telegram-plane"
+            }
+        ]
+    }
+}
